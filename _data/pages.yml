@@ -1,0 +1,27 @@
+toc:
+- title: People
+  sub:
+      - page: Principal Investigator
+        url: /pi.html
+      - page: Students
+        url: /students.html
+      - page: Prospective Students
+        url: /prospective.html
+      - page: Student Groups
+        url: /groups.html
+- title: Research
+  sub:
+      - page: Overview
+        url: /research.html
+      - page: Water Resources Engineering
+        url: /tb_water_res.html
+      - page: Defluoridation
+        url: /fluoride.html
+      - page: Groundwater Remediation
+        url: /groundwater.html
+      - page: Air Quality
+        url: /air.html
+      - page: Wind Turbines
+        url: /wind.html
+      - page: Resources
+        url: /research_res.html
