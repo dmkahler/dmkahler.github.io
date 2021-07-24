@@ -23,9 +23,12 @@
         <p>{{ site.description }}</p>
         
         {% for item in site.data.pages.toc %}
-             <a href="{{ entry.url }}">{{ entry.page }}</a><br>
-        {% endfor %}
-      
+          <h3>{{ item.title }}</h3>
+            <p>
+              {% for entry in item.sub %}
+                <a href="{{ entry.url }}">{{ entry.page }}</a><br>
+              {% endfor %}
+            </p>        {% endfor %}
       <p>&nbsp;</p>
 
         {% if site.github.is_project_page %}
