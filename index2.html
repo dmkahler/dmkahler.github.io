@@ -1,6 +1,9 @@
-<html>
-
+---
+layout: default
+title: Home
+---
 <head>
+<<<<<<< HEAD:index2.html
 <style type="text/css">
 .inline {
   background-color: #f7f7f7;
@@ -115,10 +118,30 @@ table, tr, td {border: 0px}
 
 
 <h2>Projects</h2>
+=======
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NJTLX16TH0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NJTLX16TH0');
+</script>
+</head>
+<h1>Global Hydrology Analytics</h1>
+
+>>>>>>> 12cd67a632a549a02df85a25ace6e780891841a2:index.html
 <ul>
-<li><a href="disaster_viz.nb.html" target="_blank">Global disaster data</a></li>
-<li><a href="equations.html" target="_blank">Equations in R Markdown</a></li>
+  {% for post in site.posts %}
+    <li>
+          <small>{{ post.date | date: "%-d %B %Y" }}</small>
+          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          {{ post.excerpt }}
+    </li>
+  {% endfor %}
 </ul>
+<<<<<<< HEAD:index2.html
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -134,3 +157,5 @@ table, tr, td {border: 0px}
 
 </body>
 </html>
+=======
+>>>>>>> 12cd67a632a549a02df85a25ace6e780891841a2:index.html
