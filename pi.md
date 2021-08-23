@@ -13,7 +13,7 @@ title: Principal Investigator
 - [ORCID](https://orcid.org/0000-0002-8941-6402)  
 - [Twitter](https://twitter.com/DavidMKahler)  
 
-Dr. Kahler is an assistant professor at Duquesne University.  His research is in hydrology, water resources engineering, and fluid mechanics with a focus on international development.  Dr. Kahler is available for consulting at the above email address.  
+Dr. Kahler is an assistant professor at Duquesne University.  His research is in hydrology, water resources engineering, and fluid mechanics with a focus on international development.  Dr. Kahler is available for consultation at the above email address.  
 
 Prior to joining the CERE faculty as a full-time professor in Fall 2017, Dr. Kahler was a postdoctoral fellow in the Water and Health in Limpopo, South Africa (WHIL) Innovation Program at the University of Virginia (UVA). His primary research at UVA was point-of- use drinking water treatment and water security in rural developing regions. An integral component of his international water security research focuses on the human right to water and water rights; this work is a collaboration with the University of Venda, South Africa. Prior to his research fellowship, he held an AAAS Science and Technology Policy Fellowship and at the Office of Water in the U.S. Agency for International Development. At USAID, Dr. Kahler focused on higher education partnerships between schools in the U.S. and partner countries on water and sanitation, and water resources. Additionally, David worked on agricultural water resources sustainability and was the technical representative for Securing Water for Food, a Grand Challenge for Development, a collaborative effort between the United States, Sweden, and The Netherlands.  
 
